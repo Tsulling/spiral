@@ -1,2 +1,2 @@
 # spiral
-El Psy Congroo
+El Psy Kongroo
